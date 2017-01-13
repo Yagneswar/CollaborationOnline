@@ -1,0 +1,14 @@
+body
+{
+	padding-top :100px;
+	background-color: #ffffff; 
+}
+.wrapper
+{
+	min-height: 500px;
+}
+
+.footer
+ {
+  padding-top: 200px;
+ } 

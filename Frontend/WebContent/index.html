@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html  ng-app="mkApp">
+<head>
+  <meta charset="ISO-8859-1"> 
+    <meta charset="utf-8">
+    <meta http\-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+     <title>TechLook</title>
+    <link href="resources/css/bootstrap.css" rel="stylesheet">
+    <link href="resources/css/app.css" rel="stylesheet">
+   
+   
+
+  <script type="text/javascript" src="resources/js/angular.js"></script>
+  <script type="text/javascript" src="resources/js/angular-route.js"></script>
+  <script type="text/javascript" src="app/app.module.js"></script>
+  <script type="text/javascript" src="app/app.route.js"></script>
+
+
+
+
+    
+   <!--Loading the header js-->
+
+<script type="text/javascript" src="app/shared/header/headerDirective.js"></script>
+
+<script type="text/javascript" src="app/shared/footer/footerDirective.js"></script>
+
+  <!-- To work with page components -->
+  <script type="text/javascript" src="app/component/view/pageController.js"></script>
+
+
+</head>
+<body>
+<myheader></myheader>
+
+<div class="container">
+  <div ng-view>
+    </div>
+
+
+  </div>
+  <div class="container">
+  <myfooter></myfooter>
+  </div>
+
+<!-- Adding the javascript files at the end -->
+
+ <script type="text/javascript" src="app/component/view/blogController.js"></script>
+ <script type="text/javascript" src="app/component/view/blogService.js"></script>
+  <script type="text/javascript" src="resources/js/jquery.js"></script>
+  <script type="text/javascript" src="resources/js/bootstrap.js"></script>
+  <script type="text/javascript" src="resources/js/app.js"></script>
+
+
+  <script type="text/javascript" src="resources/js/jquery.min.js"></script>
+<script type="text/javascript" src="resources/js/bootstrap.min.js"></script>
+
+</script>
+</body>
+</html>

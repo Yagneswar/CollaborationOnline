@@ -1,0 +1,17 @@
+C:\DT\collaboration_yagnes\src\main\java\com\niit\collaboration\config\AppConfig.java
+C:\DT\collaboration_yagnes\src\main\java\com\niit\collaboration\config\AppInitializer.java
+C:\DT\collaboration_yagnes\src\main\java\com\niit\collaboration\model\User.java
+C:\DT\collaboration_yagnes\src\main\java\com\niit\collaboration\dao\UserDAO.java
+C:\DT\collaboration_yagnes\src\main\java\com\niit\collaboration\controller\UserController.java
+C:\DT\collaboration_yagnes\src\main\java\com\niit\collaboration\daoImpl\BlogDAOImpl.java
+C:\DT\collaboration_yagnes\src\main\java\com\niit\collaboration\controller\FriendController.java
+C:\DT\collaboration_yagnes\src\main\java\com\niit\collaboration\dao\FriendDAO.java
+C:\DT\collaboration_yagnes\src\main\java\com\niit\collaboration\config\ApplicationContextConfig.java
+C:\DT\collaboration_yagnes\src\main\java\com\niit\collaboration\daoImpl\UserDAOImpl.java
+C:\DT\collaboration_yagnes\src\main\java\com\niit\collaboration\model\BaseDomain.java
+C:\DT\collaboration_yagnes\src\main\java\com\niit\collaboration\controller\BlogController.java
+C:\DT\collaboration_yagnes\src\main\java\com\niit\collaboration\dao\BlogDAO.java
+C:\DT\collaboration_yagnes\src\main\java\com\niit\collaboration\model\Friend.java
+C:\DT\collaboration_yagnes\src\main\java\com\niit\collaboration\daoImpl\FriendDAOImpl.java
+C:\DT\collaboration_yagnes\src\main\java\com\niit\collaboration\config\CORSFilter.java
+C:\DT\collaboration_yagnes\src\main\java\com\niit\collaboration\model\Blog.java

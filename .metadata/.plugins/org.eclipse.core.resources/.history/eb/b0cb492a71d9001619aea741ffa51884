@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.niit.mks.dao;
+
+/**
+ * @author SARWAN
+ *
+ */
+public interface UserDAO {
+
+}
